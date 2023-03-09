@@ -27,4 +27,13 @@ _Your application must include the following:_
 - Templating Use EJS to render objects from MongoDB in the browser as HTML templates.
 - Git 20+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea of what you changed. (Remember to ignore node_modules!)
 - Visual Design Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front end snazzy. The design will be scored!
-- Documentation Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the example readme for a suggested structure.
+- Documentation Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](https://git.generalassemb.ly/WC-SEI-322/Project-Node-Reverse-Engineer/blob/master/example-readme.md) for a suggested structure.
+
+## BONUS FEATURES(Stretch Goals) 
+- Add Users from this [API](https://reqres.in/api/users/)
+- Add a Second Model with a relationship to User.
+- Add User Authentication( or OAuth)
+- Add Protected Routes for Users 
+
+*The winner will be determined by an anonymous poll 
+
