@@ -1,7 +1,8 @@
 # Slackoff-Hackathon
 
 <div align="center">
- <img src="https://media0.giphy.com/media/fQZX2aoRC1Tqw/200w.webp?cid=ecf05e47mxdqwzv2fdw5yacld9foz13zscibin26za6tlsp4&rid=200w.webp&ct=g">
+ <img width="400" 
+        height="250" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47wo2yy95qcofky5xr1k2l83ygjxe9nsq5pejn7fht&rid=200.webp&ct=g">
  </div>
 
 ## Description 
