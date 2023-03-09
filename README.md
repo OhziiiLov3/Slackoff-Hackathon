@@ -16,3 +16,15 @@ It's time to put everything that you've learned together!  Build a full-stack we
 - Build a polished, published website you can share in your portfolio.
 - 
 You will be working in teams of (3 developers) Show us what you've got!
+
+## CORE REQUIREMENTS
+You and your Team will be building a User Management site. You will NOT be replicating the site 
+_Your application must include the following:_
+- Minimum ONE database model 
+- Full CRUD throughout your resources. (Not every resource needs every CRUD functionality, but all of CRUD must be demonstrated.)
+- Express APP Build an Express Application that renders HTML pages from EJS Templates.
+- RESTful Routes Design your CRUD routes using the REST convention.
+- Templating Use EJS to render objects from MongoDB in the browser as HTML templates.
+- Git 20+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea of what you changed. (Remember to ignore node_modules!)
+- Visual Design Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front end snazzy. The design will be scored!
+- Documentation Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the example readme for a suggested structure.
