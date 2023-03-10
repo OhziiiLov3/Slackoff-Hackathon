@@ -15,7 +15,7 @@ It's time to put everything that you've learned together!  Build a full-stack we
 - Apply Unit-2 concepts with team members to build MEN stack app.
 - The practice of topics covered during this course so far.
 - Build a full crud app for portfolio and work experience 
-You will be working in teams of (3 developers) Show us what you've got!
+- You will be working in teams of (3 developers) Show us what you've got!
 
 ## CORE REQUIREMENTS
 You and your Team will be building a User Management site. You will NOT be replicating the site 
