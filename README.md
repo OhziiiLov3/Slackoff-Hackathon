@@ -31,9 +31,9 @@ _Your application must include the following:_
 
 ## BONUS FEATURES(Stretch Goals) 
 - Add Users from this [API](https://reqres.in/api/users/)
-- Add a Second Model with a relationship to User.
+- Add a Second Model with a relationship to Employee.
 - Add User Authentication( or OAuth)
-- Add Protected Routes for Users 
+- Add Protected Routes 
 
 *The winner will be determined by an anonymous poll 
 
