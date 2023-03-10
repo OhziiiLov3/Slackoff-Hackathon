@@ -30,7 +30,7 @@ _Your application must include the following:_
 - Documentation Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](https://git.generalassemb.ly/WC-SEI-322/Project-Node-Reverse-Engineer/blob/master/example-readme.md) for a suggested structure.
 
 ## BONUS FEATURES(Stretch Goals) 
-- Add Users from this [API](https://reqres.in/api/users/)
+- Add Employees from this [API](https://reqres.in/api/users/)
 - Add a Second Model with a relationship to Employee.
 - Add User Authentication( or OAuth)
 - Add Protected Routes 
