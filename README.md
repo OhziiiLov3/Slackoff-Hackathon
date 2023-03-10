@@ -18,7 +18,7 @@ It's time to put everything that you've learned together!  Build a full-stack we
 - You will be working in teams of (3 developers) Show us what you've got!
 
 ## CORE REQUIREMENTS
-You and your Team will be building a User Management site. You will NOT be replicating the site 
+You and your Team will be building a Employee Management site. You will NOT be replicating the site 
 _Your application must include the following:_
 - Minimum ONE database model 
 - Full CRUD throughout your resources. (Not every resource needs every CRUD functionality, but all of CRUD must be demonstrated.)
