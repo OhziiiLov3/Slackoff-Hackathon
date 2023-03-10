@@ -8,7 +8,7 @@
 ## Description 
 ### Build Employee Management System(MEN Stack)
 
-It's time to put everything that you've learned together!  Build a full-stack web application using Express, Node.js, Mongoose, and MongoDB. Each team will build a Employee Management system to create, read, update, and delete users. 
+It's time to put everything that you've learned together!  Build a full-stack web application using Express, Node.js, Mongoose, and MongoDB. Each team will build a Employee Management system to create, read, update, and delete employees. 
 
 ## Objective
 
